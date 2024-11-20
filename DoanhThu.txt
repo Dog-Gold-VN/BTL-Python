@@ -1,0 +1,35 @@
+=== Hóa Đơn Bàn 1 - Ngày 2024-11-15 17:29 ===
+Món: Phở Bò, Số lượng: 1, Giá: 50000 VND, Tổng: 50000 VND
+Món: Bún Chả, Số lượng: 5, Giá: 45000 VND, Tổng: 225000 VND
+Món: Bánh Xèo, Số lượng: 8, Giá: 35000 VND, Tổng: 280000 VND
+Tổng tiền: 555000 VND
+    
+=== Hóa Đơn Bàn 3 - Ngày 2024-11-18 12:33 ===
+Món: Bánh Xèo, Số lượng: 23, Giá: 35000 VND, Tổng: 805000 VND
+Tổng tiền: 805000 VND
+
+=== Hóa Đơn Bàn 2 - Ngày 2024-11-18 07:43 ===
+Món: Bún Chả, Số lượng: 2, Giá: 45000 VND, Tổng: 90000 VND
+Món: Cơm Tấm, Số lượng: 3, Giá: 40000 VND, Tổng: 120000 VND
+Tổng tiền: 210000 VND
+
+=== Hóa Đơn Bàn 1 - Ngày 2024-11-18 07:45 ===
+Món: Bún Chả, Số lượng: 2, Giá: 45000 VND, Tổng: 90000 VND
+Món: Cơm Tấm, Số lượng: 3, Giá: 40000 VND, Tổng: 120000 VND
+Món: Gỏi Cuốn, Số lượng: 4, Giá: 30000 VND, Tổng: 120000 VND
+Tổng tiền: 330000 VND
+
+=== Hóa Đơn Bàn 1 - Ngày 2024-11-18 15:45 ===
+Món: Phở Bò, Số lượng: 2, Giá: 50000 VND, Tổng: 100000 VND
+Món: Bún Chả, Số lượng: 3, Giá: 45000 VND, Tổng: 135000 VND
+Tổng tiền: 235000 VND
+
+=== Hóa Đơn Bàn 3 - Ngày 2024-11-18 15:47 ===
+Món: Bún Chả, Số lượng: 3, Giá: 45000 VND, Tổng: 135000 VND
+Món: Cơm Tấm, Số lượng: 2, Giá: 40000 VND, Tổng: 80000 VND
+Tổng tiền: 215000 VND
+
+=== Hóa Đơn Bàn 6 - Ngày 2024-11-18 15:47 ===
+Món: Cơm Tấm, Số lượng: 5, Giá: 40000 VND, Tổng: 200000 VND
+Món: Bún Chả, Số lượng: 2, Giá: 45000 VND, Tổng: 90000 VND
+Tổng tiền: 290000 VND
